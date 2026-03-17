@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I'm Shourya
 
-<!--
-**Shourya-here/Shourya-here** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 AI/ML Enthusiast | Python Developer
+🎯 Building real-world AI systems
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+* 🎓 College student passionate about AI & ML
+* 🔭 Currently working on: Niyukti Setu (AI Interview System)
+* 🌱 Learning: System Design + DSA
+* ⚡ Goal: Crack top tech companies
+
+---
+
+## 🚀 Tech Stack
+
+* 💻 Python, C++
+* 📊 NumPy, Pandas, Scikit-learn
+* 🤖 OpenCV, FaceNet, ArcFace
+* 🛠 Git, Linux
+
+---
+
+## 📌 Projects
+
+* 🔹 Niyukti Setu – AI Interview System
+* 🔹 GANs Project – Medical Imaging
+* 🔹 (Add more later)
+
+---
+
+## 📈 GitHub Stats
+
+(We will add this later)
+
+---
+
+## 🌐 Connect With Me
+
+* LinkedIn: (add later)
+* Email: (add later)

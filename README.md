@@ -93,8 +93,8 @@
 
 ## 🌐 Connect With Me
 
-* LinkedIn: (add your link)
-* Email: (add your email)
+* LinkedIn: (https://www.linkedin.com/in/shourya-kumar-here/)
+* Email: (shourya.writes1@gmail.com)
 
 ---
 

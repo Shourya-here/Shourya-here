@@ -72,12 +72,11 @@
 
 ## 🧠 Patent
 
-### 📌 Data-Driven Agricultural Management System for Resource Optimization
+### 📖 Data-Driven Agricultural Management System for Resource Optimization
+🔗 [View Patent Document](https://drive.google.com/file/d/1HBSP9cMlAOFvojX0eMOvHeo8dddAeJot/view?usp=drive_link)
 
 - 🆔 **Application Number:** 202511017657  
-- 📅 **Filing Date:** February 18, 2025  
-- 🔗 [View Patent Document]([https://drive.google.com/file/d/1bKAesDAIYj4h6ZQJqa2XwTB9aHmcnyxi/view?usp=drivesdk](https://drive.google.com/file/d/1HBSP9cMlAOFvojX0eMOvHeo8dddAeJot/view?usp=drive_link))
-
+- 📅 **Filing Date:** February 18, 2025
 ### 📝 Description
 
 This invention presents a **comprehensive agricultural intelligence system** designed to address key challenges faced by farmers, including:

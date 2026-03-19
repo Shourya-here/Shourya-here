@@ -8,7 +8,7 @@
 📍 Focused on building real-world AI systems
 
 ---
-🔗 **Live Website:** https://shourya-here.vercel.app/
+🔗 **Portfolio Website:** https://shourya-here.vercel.app/
 ---
 ## 🧠 About Me
 

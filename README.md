@@ -58,14 +58,48 @@
 
 ---
 
-## 📚 Publications
+## 📚 Publications & Patents
 
-### 📖 Generative Adversarial Networks in Healthcare Applications
+### 📖 Generative Adversarial Networks in Healthcare Applications  
+🔗 [Read Publication](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003488255-11/generative-adversarial-networks-healthcare-applications-shourya-kumar-shreya-goel-shikha-agarwal-sanjay-kumar-sonker-ankit-bansal-ruchi-bansal)
 
-* 📌 Published in **CRC Press**
-* Focus on GANs in medical imaging and healthcare
-* Explores real-world AI applications
+- 📌 Published in **CRC Press (Taylor & Francis Group)**
+- Focuses on the application of **Generative Adversarial Networks (GANs)** in healthcare  
+- Covers **medical imaging, synthetic data generation, and AI-driven diagnostics**  
+- Explores real-world use cases and future potential of GenAI in clinical systems  
 
+---
+
+## 🧠 Patent
+
+### 📌 Data-Driven Agricultural Management System for Resource Optimization
+
+- 🆔 **Application Number:** 202511017657  
+- 📅 **Filing Date:** February 18, 2025  
+- 🔗 [View Patent Document]([https://drive.google.com/file/d/1bKAesDAIYj4h6ZQJqa2XwTB9aHmcnyxi/view?usp=drivesdk](https://drive.google.com/file/d/1HBSP9cMlAOFvojX0eMOvHeo8dddAeJot/view?usp=drive_link))
+
+### 📝 Description
+
+This invention presents a **comprehensive agricultural intelligence system** designed to address key challenges faced by farmers, including:
+
+- Lack of fair pricing and direct market access  
+- Limited awareness of government schemes and policies  
+- Inefficient farming practices and resource utilization  
+
+### 🚀 Key Features
+
+- 🌾 **Direct Farmer-to-Buyer Connectivity** for fair pricing  
+- 📢 **Real-time Updates** on government schemes and policies  
+- 📍 **Location-based Crop Recommendations** using data-driven insights  
+- 🤖 **Smart Chatbot Assistance** for instant query resolution  
+- 🎯 **Personalized Farming Guidance** based on crop and conditions  
+- 🚜 **Farm Equipment Rental System** for better accessibility  
+
+### 🌱 Impact
+
+- Enhances **farmer productivity and decision-making**  
+- Promotes **sustainable and eco-friendly farming practices**  
+- Reduces costs associated with modern agricultural techniques  
 ---
 
 ## 📈 GitHub Stats
